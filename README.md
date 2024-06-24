@@ -1,0 +1,1 @@
+In the web folder there is a labs folder that contains the labs and their code, in the zvit folder there are reports for these labs, opening the index.html file opens a list of lab works and you can view them there, in the style.css file there is the code for the index.html design
